@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Қазақ әндері</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="storage_url">gs://qazaq-eli-anderi.appspot.com</string>
+    <string name="folder_name">qazaq-eli-anderi</string>
+    <string name="default_song_text">
+        Қарайлаймын сенің қара көзіңе<br />
+        Таңдамас мені болсаңда<br />
+        Арнаймын әнді жаным мен тек өзіңе<br />
+        Сыйлайтын гүлім болсада ай<br />
+        <br /><br />
+        Сезімім жалындап,<br />
+        Жұлдыз нұрын тарту ғып<br />
+        Жараладым, жабырқадым қарындас<br />
+        Үмітім тағатсыз,<br />
+        Сағыныштан арылмас<br />
+        Жүрегіме өзіңсіз ем табылмас<br />
+    </string>
+</resources>

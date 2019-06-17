@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3644BB</color>
+    <color name="colorPrimaryDark">#000032</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="ping">#ED5A8E</color>
+    <color name="blue_darken">#0825D9</color>
+
+    <color name="light_green">#63DDC4</color>
+    <color name="orange">#C4842D</color>
+    <color name="purple">#8B3E9C</color>
+    <color name="icon_bg">#0B80FF</color>
+
+    <!--Dark mode-->
+    <color name="blue">#3644BB</color>
+    <color name="dark_blue">#000032</color>
+    <color name="white_dark_blue">#14144E</color>
+    <color name="hr">#434190</color>
+
+    <!--Light mode-->
+    <color name="invert_blue">#9AA8FF</color>
+    <color name="invert_dark_blue">#F4F4FF</color>
+    <color name="invert_white_dark_blue">#DEDEFF</color>
+    <color name="invert_hr">#ADABFA</color>
+
+</resources>

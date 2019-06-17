@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16024265378",
+    "firebase_url": "https://qazaq-eli-anderi.firebaseio.com",
+    "project_id": "qazaq-eli-anderi",
+    "storage_bucket": "qazaq-eli-anderi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16024265378:android:acfaa9115c9b20bd",
+        "android_client_info": {
+          "package_name": "i.am.rauan.satanbek.qazaqhalyqanderi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16024265378-79upo8rpov227d7cri7lh3avukruh35j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9TfRGSMmivQsGlofDSplYRAGsG7CXWfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16024265378-79upo8rpov227d7cri7lh3avukruh35j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

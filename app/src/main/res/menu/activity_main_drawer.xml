@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<group android:id="@+id/own_playlist">-->
+        <!--<item android:id="@+id/nav_item_favorite"-->
+              <!--android:icon="@drawable/ic_star"-->
+              <!--android:title="Таңдаулы" />-->
+        <!--&lt;!&ndash;<item android:id="@+id/nav_item_two"&ndash;&gt;-->
+              <!--&lt;!&ndash;android:icon="@drawable/ic_menu_headphone"&ndash;&gt;-->
+              <!--&lt;!&ndash;android:title="Менің жинағым" />&ndash;&gt;-->
+    <!--</group>-->
+
+    <!--<group android:id="@+id/singer_playlist">-->
+        <!--<item android:id="@+id/nav_item_all_songs"-->
+              <!--android:icon="@drawable/ic_sign_note_1"-->
+              <!--android:title="Әндер" />-->
+        <!--&lt;!&ndash;<item android:id="@+id/nav_item_five"&ndash;&gt;-->
+              <!--&lt;!&ndash;android:icon="@drawable/ic_album"&ndash;&gt;-->
+              <!--&lt;!&ndash;android:title="Шырқашы жүрек"/>&ndash;&gt;-->
+
+        <!--&lt;!&ndash;<item android:id="@+id/nav_item_five2"&ndash;&gt;-->
+              <!--&lt;!&ndash;android:icon="@drawable/ic_album"&ndash;&gt;-->
+              <!--&lt;!&ndash;android:title="Ауылды аңсау" />&ndash;&gt;-->
+    <!--</group>-->
+
+    <!--<group android:id="@+id/group_loadadd">-->
+        <!--<item android:id="@+id/nav_item_download"-->
+              <!--android:icon="@drawable/ic_menu_loaded"-->
+              <!--android:title="Сақтаулы" />-->
+        <!--<item android:id="@+id/nav_item_add_new"-->
+              <!--android:icon="@drawable/ic_add"-->
+              <!--android:title="Жинақ ашу" />-->
+    <!--</group>-->
+
+    <!--<item-->
+          <!--android:title="" />-->
+    <!--<item-->
+            <!--android:title="" />-->
+    <!--<item-->
+            <!--android:title="" />-->
+    <!--<item-->
+            <!--android:title="" />-->
+
+</menu>
